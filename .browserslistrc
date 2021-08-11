@@ -1,8 +1,0 @@
-[production]
-last 2 versions
-> 1%
-not dead
-not op_mini all
-
-[development]
-last 1 chrome version
